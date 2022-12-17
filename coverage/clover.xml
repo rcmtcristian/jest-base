@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1671307322706" clover="3.2.0">
+  <project timestamp="1671307322706" name="All files">
+    <metrics statements="43" coveredstatements="42" conditionals="6" coveredconditionals="6" methods="14" coveredmethods="13" elements="63" coveredelements="61" complexity="0" loc="43" ncloc="43" packages="1" files="6" classes="6"/>
+    <file name="Two-sum.js" path="C:\Users\Cristian\Desktop\Jest lecture\jest base\Completed\Two-sum.js">
+      <metrics statements="9" coveredstatements="9" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="4" type="stmt"/>
+      <line num="3" count="5" type="stmt"/>
+      <line num="5" count="5" type="stmt"/>
+      <line num="6" count="9" type="stmt"/>
+      <line num="8" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="2" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="anagram.js" path="C:\Users\Cristian\Desktop\Jest lecture\jest base\Completed\anagram.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="13" count="6" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="chunk.js" path="C:\Users\Cristian\Desktop\Jest lecture\jest base\Completed\chunk.js">
+      <metrics statements="9" coveredstatements="9" conditionals="4" coveredconditionals="4" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+      <line num="8" count="13" type="stmt"/>
+      <line num="11" count="13" type="cond" truecount="4" falsecount="0"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="14" count="5" type="stmt"/>
+      <line num="18" count="2" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+    </file>
+    <file name="functions.js" path="C:\Users\Cristian\Desktop\Jest lecture\jest base\Completed\functions.js">
+      <metrics statements="12" coveredstatements="11" conditionals="0" coveredconditionals="0" methods="7" coveredmethods="6"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="16" count="0" type="stmt"/>
+      <line num="19" count="1" type="stmt"/>
+    </file>
+    <file name="mock-endpoints.js" path="C:\Users\Cristian\Desktop\Jest lecture\jest base\Completed\mock-endpoints.js">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="12" count="1" type="stmt"/>
+    </file>
+    <file name="reversestring.js" path="C:\Users\Cristian\Desktop\Jest lecture\jest base\Completed\reversestring.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="2" type="stmt"/>
+      <line num="8" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
